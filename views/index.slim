@@ -1,13 +1,19 @@
 h1 Design Time
 
-div class="container"
- div class="panel panel-default"
-  div class="panel-heading"
-    h3 class="panel-title" Editor
-  div class="panel-body"
-   div id="editor" 
-   a href="#" class="download" Download as SVG
- div class="diagram" 
+section id="code"
+ div class="container"
+  div class="panel panel-default"
+   div class="panel-heading"
+     h3 class="panel-title" Editor
+   div class="panel-body"
+    div id="editor" class="editor"
+    a href="#" class="download" Download as SVG &nbsp;
+    b Theme:
+    select 
+     option value="hand" Hand Drawn
+     option value="simple" Simple
+
+  div class="diagram" 
 
 javascript:
   var editor = ace.edit("editor");
