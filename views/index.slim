@@ -1,7 +1,15 @@
 h1 Design Time
 
-div class="diagram"
+div class="container"
+ div class="panel panel-default"
+  div class="panel-heading"
+    h3 class="panel-title" Editor
+  div class="panel-body"
+   div id="editor" 
+   a href="#" class="download" Download as SVG
+ div class="diagram" 
 
-
-javascript: 
- alert('Slim supports embedded javascript!')
+javascript:
+  var editor = ace.edit("editor");
+  editor.setTheme("ace/theme/monokai");
+  editor.getSession().setMode("ace/mode/javascript");
