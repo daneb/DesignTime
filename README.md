@@ -1,11 +1,12 @@
 ## DesignTime - README Driven Design
 
-My attempt to improve my design through Sequence Diagrams
+Following js-sequence diagrams site, this mirrors the functionality for a personal off-line application.
+Simply; generates SEQUENCE Diagrams from TEXTFILE
 
 # Usage
 
 # rackup ./config.ru
 
 TODO:
-* Fix Theme Drop Dow
+* Fix Theme Drop Dow  [x]
 * Added ability to save TEXT as README  
