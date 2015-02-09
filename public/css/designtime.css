@@ -2,3 +2,7 @@
       /** Setting height is also important, otherwise editor wont showup**/
       height: 300px;
 }
+
+.headline {
+  color: #4183c4;
+}
