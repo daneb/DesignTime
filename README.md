@@ -7,9 +7,9 @@ README file to Sequence Diagram.
 This is basically JS Sequence Diagram offline and barebone for you too build on.
 
 ### What it uses?
-Sinatra
-Ruby
-js-sequence diagram
+* Sinatra
+* Ruby
+* js-sequence diagram
 
 ### What it looks like
 ![](https://raw.githubusercontent.com/daneb/DesignTime/master/public/images/sample.png)
