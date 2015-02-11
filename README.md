@@ -1,7 +1,15 @@
-## DesignTime - README Driven Design
+## DesignTime - README Driven Design (js-sequence diagram)
 
-Following js-sequence diagrams site, this mirrors the functionality for a personal off-line application.
-Simply; generates SEQUENCE Diagrams from TEXTFILE
+### What it does?
+README file to Sequence Diagram
+
+### What it uses?
+Sinatra
+Ruby
+js-sequence diagram
+
+### What it looks like
+[logo]: https://github.com/daneb/DesignTime/tree/master/publicimages/sample.png
 
 # Usage
 
@@ -10,3 +18,4 @@ Simply; generates SEQUENCE Diagrams from TEXTFILE
 TODO:
 * Fix Theme Drop Dow  [x]
 * Added ability to save TEXT as README  
+* Migrate CSS to SASS
