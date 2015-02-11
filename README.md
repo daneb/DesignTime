@@ -8,6 +8,9 @@ Sinatra
 Ruby
 js-sequence diagram
 
+### What it looks like
+![](https://raw.githubusercontent.com/daneb/DesignTime/master/public/images/sample.png)
+
 ### Usage
 rackup ./config.ru
 
