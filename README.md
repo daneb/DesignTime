@@ -9,13 +9,12 @@ Ruby
 js-sequence diagram
 
 ### What it looks like
-[logo]: https://github.com/daneb/DesignTime/tree/master/publicimages/sample.png
+[<img src="https://github.com/daneb/DesignTime/tree/master/publicimages/sample.png">]
 
-# Usage
+### Usage
+rackup ./config.ru
 
-# rackup ./config.ru
-
-TODO:
+### TODO:
 * Fix Theme Drop Dow  [x]
 * Added ability to save TEXT as README  
 * Migrate CSS to SASS
