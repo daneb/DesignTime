@@ -9,7 +9,7 @@ Ruby
 js-sequence diagram
 
 ### What it looks like
-[<img src="https://github.com/daneb/DesignTime/tree/master/public/images/sample.png">]
+<img src="https://github.com/daneb/DesignTime/tree/master/public/images/sample.png">
 
 ### Usage
 rackup ./config.ru
