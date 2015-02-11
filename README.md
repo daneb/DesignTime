@@ -9,8 +9,7 @@ Ruby
 js-sequence diagram
 
 ### What it looks like
-![Sample of Application]
-(https://github.com/daneb/DesignTime/tree/master/public/images/sample.png)
+![](https://github.com/daneb/DesignTime/tree/master/public/images/sample.png)
 
 ### Usage
 rackup ./config.ru
